@@ -1,5 +1,5 @@
-# Fundamental Software Development
-IKT101-G
+# IKT101-G - Fundamental Software Development
+
 
 ## Language of instruction 
 Norwegian
