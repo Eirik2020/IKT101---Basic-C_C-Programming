@@ -1,5 +1,5 @@
-# IKT101-G - Fundamental Software Development
-
+# IKT101 - Fundamental Software Development
+Fall 2023
 
 ## Language of instruction 
 Norwegian
